@@ -1,0 +1,6 @@
+actronika-pc-nrfutil (3.5.1-1) actronika; urgency=medium
+
+   * Initial release
+     Patched with serial update fixes and options added.
+
+ -- Aurelien Zanelli <aurelien.zanelli@actronika.com>  Tue, 05 Jun 2018 13:07:31 +0100

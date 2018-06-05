@@ -1,0 +1,12 @@
+Source: actronika-pc-nrfutil
+Section: devel
+Priority: optional
+Maintainer: Aurelien Zanelli <aurelien.zanelli@actronika.com>
+Build-Depends: debhelper (>= 9), dh-python, python-all
+Standards-Version: 3.9.8
+Homepage: https://github.com/azanelli-actronika/pc-nrfutil
+
+Package: actronika-pc-nrfutil
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Nordic nrfutil modified by actronika
