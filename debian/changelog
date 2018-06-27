@@ -1,3 +1,12 @@
+actronika-pc-nrfutil (3.5.1-2) actronika; urgency=medium
+
+  [ Aurélien Zanelli ]
+  * debian/control: replace shlibs depends with python
+
+  [ Aurelien Zanelli ]
+
+ -- Aurelien Zanelli <aurelien.zanelli@actronika.com>  Wed, 27 Jun 2018 14:08:12 +0200
+
 actronika-pc-nrfutil (3.5.1-1) actronika; urgency=medium
 
    * Initial release
