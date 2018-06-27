@@ -2,7 +2,7 @@ Source: actronika-pc-nrfutil
 Section: devel
 Priority: optional
 Maintainer: Aurelien Zanelli <aurelien.zanelli@actronika.com>
-Build-Depends: debhelper (>= 9), dh-python, python-all
+Build-Depends: debhelper (>= 9), dh-python, python-all, python-behave, python-pc-ble-driver, python-pyspinel, python-piccata
 Standards-Version: 3.9.8
 Homepage: https://github.com/azanelli-actronika/pc-nrfutil
 
